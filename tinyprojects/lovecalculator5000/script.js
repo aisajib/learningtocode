@@ -19,6 +19,11 @@ function calcLove () {
     
     result.innerHTML = "Hey " + person1 + "! The love percentage for you and " + person2 + " is <span>" + percentFinder + "%</span>!";
 }
-console.log(typeof(person1));
 }
 
+document.querySelector("#hiddenEditor").addEventListener("click", openEditor);
+
+function openEditor(){
+    
+    result.innerHTML = "<textarea placeholder='I heard you like this font. Go head, type something. :D'></textarea>";
+}

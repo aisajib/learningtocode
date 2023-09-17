@@ -60,3 +60,11 @@ button {
     color:red;
     font-size:28px;
 }
+
+textarea, textarea::placeholder {
+    width:600px;
+    height:300px;
+    font-family:"Love Ya Like A Sister", cursive;
+    color:#FF3FA4;
+    font-size:25px;
+}
