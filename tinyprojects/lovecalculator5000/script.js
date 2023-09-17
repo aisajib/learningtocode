@@ -1,3 +1,6 @@
+
+
+
 function calcLove () {
     // First form's value
     const person1 = document.getElementById("input1").value;
