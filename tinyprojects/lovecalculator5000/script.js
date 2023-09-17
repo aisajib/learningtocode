@@ -4,8 +4,12 @@ function calcLove () {
 
     // Second form's value
     const person2 = document.getElementById("input2").value;
+    const emptyString = "";
 
-    console.log("You are " + person1 + " and your crush is " + person2);
+    if(person1 ===  emptyString || person2 === emptyString) {
+        alert("Please enter both names.") 
+        return ;
+    } else {
 
     // Finding a random number and outputting it to the #result HTML.
     let percentFinder = Math.random();
@@ -14,6 +18,7 @@ function calcLove () {
     result = document.querySelector("#result");
     
     result.innerHTML = "Hey " + person1 + "! The love percentage for you and " + person2 + " is <span>" + percentFinder + "%</span>!";
-
+}
+console.log(typeof(person1));
 }
 
