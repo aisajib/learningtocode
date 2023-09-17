@@ -1,1 +1,1 @@
-# My Coding Journey
+# My Coding Journey from (sort of) zero!
