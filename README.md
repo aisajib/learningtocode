@@ -3,7 +3,7 @@ Hey folks!
 
 I recently started learning to code and created this repo to start hosting everything I'm learning. The `tinyprojects` folder will host stuff that are really insignificant stuff. As I learn to do things, the objective is to create simple websites and use JavaScript to turn them into simple programs. 
 
-I write about my learning journey on https://sls.ais.blog. Feel free to drop by and subscribe via email for updates! My hope? You'll see my thinking process and solution and help me improve!
+I write about my learning journey on https://codingjourney.blog. Feel free to drop by and subscribe via email for updates! My hope? You'll see my thinking process and solution and help me improve!
 
 ## Tiny Projects
 
